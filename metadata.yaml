@@ -1,0 +1,30 @@
+_repo: Diana-degli-Embriaci-Storia-del-XII-secolo_64411
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+    - https://it.wikipedia.org/wiki/Anton_Giulio_Barrili
+description: ''
+gutenberg_issued: '2021-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64411'
+  lccn: 01024878
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- !lcsh 'Genoa (Italy) -- History -- To 1339 -- Fiction'
+- GITenberg
+title: 'Diana degli Embriaci: Storia del XII secolo'
+url: http://www.gutenberg.org/ebooks/64411
